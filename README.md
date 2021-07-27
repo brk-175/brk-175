@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://miro.medium.com/max/2000/1*Mycg7xtgCBqY-2FoSlefZw.gif" height="175px"/></a>
 
-<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi..There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><br>I'm<br><img src="https://i.pinimg.com/originals/d7/dc/3b/d7dc3b37a0603484b6484a859e5bb786.gif" style="vertical-align:middle;" width="60px"><big><b>hushan</b></big></h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi..There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><br>I'm<br><img src="https://i.pinimg.com/originals/d7/dc/3b/d7dc3b37a0603484b6484a859e5bb786.gif" style="vertical-align:middle;" width="60px" height="43px"><big><b>hushan</b></big></h1>
 <h3 align="center">❗ I'm an Ardent ❗<br><b>❗ S</b>oftware <b>D</b>evelopment <b>E</b>ngineer ❗</h3>
 
 ##
@@ -21,7 +21,7 @@
 <img src="https://cdn.dribbble.com/users/2316414/screenshots/5538071/800x600.gif" width="50px" style="vertical-align: middle">&emsp;Checkout my Favourite Quote of -*[Theodore Roosevelt](https://cdn.quotesgram.com/img/55/16/1669029035-52ae5355d87ea827a2f103dc584ca8ed.jpg)*
 
 ##
-<img src="https://64.media.tumblr.com/34d7472d238fec0320d3cb5afd36621c/tumblr_olueahzsxj1r2geqjo1_540.gifv" width="45px" style="vertical-align: middle;">&emsp;<big><b>Languages:</b></big>
+## <img src="https://64.media.tumblr.com/34d7472d238fec0320d3cb5afd36621c/tumblr_olueahzsxj1r2geqjo1_540.gifv" width="45px" style="vertical-align: middle;">&emsp;<big><b>Languages:</b></big>
 
 <p align="center"><br><br> 
     <a href="https://www.python.org/"><img src="https://hackernoon.com/images/bFFEe4dIUoXgbouiLfgW9PI9b8q1-332431x7.gif" width="50px" style="vertical-align: middle" ></a>&emsp;&emsp;&emsp;<a href="https://www.javascript.com/"><img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50px" style="vertical-align: middle"></a>&emsp;&emsp;&emsp;<a href="https://www.w3schools.com/cpp/"><img src="https://viajesporelmundo989.files.wordpress.com/2016/12/c.gif" width="50px" style="vertical-align: middle"></a>&emsp;&emsp;&emsp;<a href="https://www.php.net/"><img src="https://www.vickywebdeveloper.com/wp-content/uploads/2018/12/freelance-php-developer-in-pune.gif" width="50px" style="vertical-align: middle"></a>&emsp;&emsp;&emsp;<a href="https://www.java.com/en/"><img src="https://raw.githubusercontent.com/nullptr7/nullptr7/master/resources/java-gif.gif" width="50px" style="vertical-align: middle"></a>&emsp;&emsp;&emsp;<a href="https://www.w3schools.in/c-tutorial/"><img src="https://pa1.narvii.com/7663/45fe71a679ae1cc0f284c6e767b00a8a20cbc7a5r1-480-480_128.gif" width="50px"  style="vertical-align: middle"></a>
