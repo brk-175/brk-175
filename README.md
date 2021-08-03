@@ -1,4 +1,4 @@
-<img width="100%" height="auto" src="https://miro.medium.com/max/2000/1*Mycg7xtgCBqY-2FoSlefZw.gif" height="175px"/>
+<img width="100%" src="https://miro.medium.com/max/2000/1*Mycg7xtgCBqY-2FoSlefZw.gif" height="160px"/>
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi..There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><br>I'm<br><img src="https://i.pinimg.com/originals/d7/dc/3b/d7dc3b37a0603484b6484a859e5bb786.gif" style="vertical-align:middle;" width="60px" height="43px"><big><b>hushan</b></big></h1>
 <h3 align="center">❗ I'm an Ardent ❗<br><b>❗ S</b>oftware <b>D</b>evelopment <b>E</b>ngineer ❗</h3>
@@ -13,8 +13,6 @@
 <img src="https://cdn.dribbble.com/users/2316414/screenshots/5538071/800x600.gif" width="50px" style="vertical-align: middle">&emsp;I'm currently doing a **self paced Internship !**
 
 <img src="https://cdn.dribbble.com/users/2316414/screenshots/5538071/800x600.gif" width="50px" style="vertical-align: middle">&emsp;Checkout My Recent mini-project: **[Animated-Web](https://brk-175.github.io/bRk-AnimateD-TemplatE/) !**
-
-<img src="https://cdn.dribbble.com/users/2316414/screenshots/5538071/800x600.gif" width="50px" style="vertical-align: middle">&emsp;My Gmail: **bhushankale175@gmail.com !** 
 
 <img src="https://cdn.dribbble.com/users/2316414/screenshots/5538071/800x600.gif" width="50px" style="vertical-align: middle">&emsp;Favourite SportPerson : **[MESSI](https://brk-175.github.io/bRk-3D-CarD-MESSI/)**
 
