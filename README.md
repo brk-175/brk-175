@@ -37,7 +37,7 @@
 <p align="center">
   <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=brk-175&show_icons=true&count_private=true&theme=chartreuse-dark&border=2EFF00&bg_color=0D1117" /></a>
   <br><br>
-  <img alt="Mostly used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brk-175&langs_count=8&count_private=true&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" /></a>
+  <img alt="Mostly used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brk-175&langs_count=8&count_private=true&layout=compact&theme=chartreuse-dark&border=7FFF00&bg_color=0D1117" /></a>
 </p>
 
 <img alt="My Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=brk-175&bg_color=0D1117&color=5BCDEC&line=7FFF00&point=FFFFFF&hide_border=true" /></a>
