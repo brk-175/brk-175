@@ -12,9 +12,9 @@
 
 <img src="https://cdn.dribbble.com/users/2316414/screenshots/5538071/800x600.gif" width="50px" style="vertical-align: middle">&emsp;I'm currently doing a **self paced Internship !**
 
-<img src="https://cdn.dribbble.com/users/2316414/screenshots/5538071/800x600.gif" width="50px" style="vertical-align: middle">&emsp;Checkout My Recent mini-project: **[BG-MusiC]( https://brk-175.github.io/bRk-BG-MusiC/) !**
+<img src="https://cdn.dribbble.com/users/2316414/screenshots/5538071/800x600.gif" width="50px" style="vertical-align: middle">&emsp;Checkout My Recent mini-project: **[ParallaX-ScrollinG-EffecT](https://brk-175.github.io/ParallaX-ScrollinG-EffecT/)**
 
-<img src="https://cdn.dribbble.com/users/2316414/screenshots/5538071/800x600.gif" width="50px" style="vertical-align: middle">&emsp;Favourite SportPerson : **[MESSI](https://brk-175.github.io/bRk-3D-CarD-MESSI/)**
+<img src="https://cdn.dribbble.com/users/2316414/screenshots/5538071/800x600.gif" width="50px" style="vertical-align: middle">&emsp;Favourite SportPerson : **[MESSI](https://brk-175.github.io/3D-CarD-MESSI/)**
 
 <img src="https://cdn.dribbble.com/users/2316414/screenshots/5538071/800x600.gif" width="50px" style="vertical-align: middle">&emsp;Checkout my Favourite Quote of -*[Theodore Roosevelt](https://cdn.quotesgram.com/img/55/16/1669029035-52ae5355d87ea827a2f103dc584ca8ed.jpg)*
 
